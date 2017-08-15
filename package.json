@@ -1,0 +1,22 @@
+{
+  "name": "clog",
+  "version": "1.0.0",
+  "description": "chalk + console.log",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/uwx/clog.git"
+  },
+  "author": "uwx",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/uwx/clog/issues"
+  },
+  "peerDependencies": {
+    "chalk": "2.x"
+  },
+  "homepage": "https://github.com/uwx/clog#readme"
+}
